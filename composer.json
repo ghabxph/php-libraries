@@ -1,0 +1,18 @@
+{
+    "name": "ghabxph/libraries",
+    "description": "Gabriel's useful PHP libraries",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Lucernas Pascual",
+            "email": "me@ghabxph.info"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gabriel\\": "src/"
+        }
+    }
+}
